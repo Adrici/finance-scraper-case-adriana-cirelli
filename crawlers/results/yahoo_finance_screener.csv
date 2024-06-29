@@ -1,0 +1,710 @@
+Symbol,Name,Price (Intraday)
+AAPL.BA,Apple Inc.,"14,331.00"
+NVDA.BA,NVIDIA Corporation,"7,003.00"
+MSFT.BA,Microsoft Corporation,"20,321.00"
+GOOGL.BA,Alphabet Inc.,"4,261.00"
+AMZN.BA,"Amazon.com, Inc.","1,822.50"
+C.BA,Citigroup Inc.,"28,502.50"
+BABA.BA,Alibaba Group Holding Limited,"10,805.00"
+TM.BA,Toyota Motor Corporation,"18,465.50"
+LLY.BA,Eli Lilly and Company,"21,979.50"
+BRKB.BA,Berkshire Hathaway Inc.,"25,049.00"
+TSM.BA,Taiwan Semiconductor Manufacturing Company Limited,"26,176.50"
+TSLA.BA,"Tesla, Inc.","17,820.00"
+WMT.BA,Walmart Inc.,"5,091.00"
+JPM.BA,JPMorgan Chase & Co.,"18,274.50"
+XOM.BA,Exxon Mobil Corporation,"15,581.50"
+ORCL.BA,Oracle Corporation,"63,821.50"
+COST.BA,Costco Wholesale Corporation,"24,050.50"
+PG.BA,The Procter & Gamble Company,"14,861.50"
+SAN.BA,"Banco Santander, S.A.","25,010.00"
+HD.BA,"The Home Depot, Inc.","14,555.00"
+JNJ.BA,Johnson & Johnson,"13,161.50"
+AZN.BA,AstraZeneca PLC,"52,838.00"
+VOD.BA,Vodafone Group Public Limited Company,"12,020.50"
+BCS.BA,Barclays PLC,"14,400.50"
+MRK.BA,"Merck & Co., Inc.","34,246.50"
+SHEL.BA,Shell plc,"48,887.50"
+NFLX.BA,"Netflix, Inc.","18,994.50"
+CVX.BA,Chevron Corporation,"13,242.50"
+KO.BA,The Coca-Cola Company,"17,186.50"
+ADBE.BA,Adobe Inc.,"17,137.00"
+V.BA,Visa Inc.,"19,722.00"
+SAP.BA,SAP SE,"45,561.00"
+NVS.BA,Novartis AG,"35,990.00"
+ORAN.BA,Orange S.A.,"13,575.00"
+HDB.BA,HDFC Bank Limited,"43,742.50"
+CRM.BA,"Salesforce, Inc.","19,336.00"
+HSBC.BA,HSBC Holdings plc,"29,196.50"
+PEP.BA,"PepsiCo, Inc.","12,423.00"
+HMC.BA,"Honda Motor Co., Ltd.","43,680.00"
+QCOM.BA,QUALCOMM Incorporated,"24,562.00"
+AMAT.BA,"Applied Materials, Inc.","64,022.50"
+TMO.BA,Thermo Fisher Scientific Inc.,"33,647.50"
+WFC.BA,Wells Fargo & Company,"16,069.00"
+CSCO.BA,"Cisco Systems, Inc.","12,887.50"
+MCD.BA,McDonald's Corporation,"14,321.50"
+ABT.BA,Abbott Laboratories,"35,102.50"
+DISN.BA,The Walt Disney Company,"11,151.50"
+VZ.BA,Verizon Communications Inc.,"13,972.00"
+TXN.BA,Texas Instruments Incorporated,"52,818.00"
+AMGN.BA,Amgen Inc.,"14,127.50"
+GE.BA,General Electric Company,"26,937.50"
+AXP.BA,American Express Company,"20,919.50"
+IBM.BA,International Business Machines Corporation,"15,622.50"
+CAT.BA,Caterpillar Inc.,"22,558.00"
+PFE.BA,Pfizer Inc.,"9,480.00"
+HON.BA,Honeywell International Inc.,"35,950.00"
+T.BA,AT&T Inc.,"8,596.00"
+BHP.BA,BHP Group Limited,"38,674.00"
+IBN.BA,ICICI Bank Limited,"39,181.00"
+BP.BA,BP p.l.c.,"9,758.50"
+GS.BA,"The Goldman Sachs Group, Inc.","47,071.00"
+TTE.BA,TotalEnergies SE,"30,207.00"
+INTC.BA,Intel Corporation,"8,390.00"
+ABEV.BA,Ambev S.A.,"8,293.00"
+NKE.BA,"NIKE, Inc.","8,508.50"
+BA.BA,The Boeing Company,"10,266.50"
+RTX.BA,RTX Corporation,"27,102.00"
+ADI.BA,"Analog Devices, Inc.","20,561.00"
+LMT.BA,Lockheed Martin Corporation,"31,558.50"
+GSK.BA,GSK plc,"13,048.50"
+DE.BA,Deere & Company,"12,678.00"
+MMC.BA,"Marsh & McLennan Companies, Inc.","17,848.00"
+RIO.BA,Rio Tinto Group,"11,107.50"
+MDT.BA,Medtronic plc,"26,598.00"
+ADP.BA,"Automatic Data Processing, Inc.","53,698.50"
+GILD.BA,"Gilead Sciences, Inc.","23,218.50"
+SBUX.BA,Starbucks Corporation,"8,794.50"
+FDX.BA,FedEx Corporation,"40,469.00"
+BMY.BA,Bristol-Myers Squibb Company,"18,739.00"
+PCAR.BA,PACCAR Inc,"46,337.50"
+CL.BA,Colgate-Palmolive Company,"43,750.00"
+MELI.BA,"MercadoLibre, Inc.","18,578.00"
+BBV.BA,"Banco Bilbao Vizcaya Argentaria, S.A.","13,565.00"
+INFY.BA,Infosys Limited,"25,223.00"
+MO.BA,"Altria Group, Inc.","15,376.00"
+SCCO.BA,Southern Copper Corporation,"73,157.00"
+ITUB.BA,Ita� Unibanco Holding S.A.,"7,788.00"
+NGG.BA,National Grid plc,"38,385.00"
+AMX.BA,"Am�rica M�vil, S.A.B. de C.V.","22,907.50"
+TGT.BA,Target Corporation,"8,288.50"
+SLB.BA,Schlumberger Limited,"21,293.00"
+MSI.BA,"Motorola Solutions, Inc.","26,161.50"
+AIG.BA,"American International Group, Inc.","20,021.00"
+DEO.BA,Diageo plc,"28,460.50"
+E.BA,Eni S.p.A.,"10,332.00"
+FCX.BA,Freeport-McMoRan Inc.,"21,922.50"
+USB.BA,U.S. Bancorp,"10,716.00"
+PYPL.BA,"PayPal Holdings, Inc.","9,817.00"
+MMM.BA,3M Company,"13,813.50"
+MFG.BA,"Mizuho Financial Group, Inc.","5,693.50"
+ING.BA,ING Groep N.V.,"7,735.00"
+ROST.BA,"Ross Stores, Inc.","49,169.50"
+KMB.BA,Kimberly-Clark Corporation,"31,150.50"
+NEM.BA,Newmont Corporation,"18,800.00"
+TIMB.BA,TIM S.A.,"19,115.50"
+TRVV.BA,"The Travelers Companies, Inc.","45,550.00"
+SONY.BA,Sony Group Corporation,"14,379.50"
+BK.BA,The Bank of New York Mellon Corporation,"40,555.50"
+LYG.BA,Lloyds Banking Group plc,"1,850.50"
+VALE.BA,Vale S.A.,"7,564.00"
+SNAP.BA,Snap Inc.,"22,254.50"
+GGB.BA,Gerdau S.A.,"17,914.00"
+HPQ.BA,HP Inc.,"47,310.50"
+JD.BA,"JD.com, Inc.","8,736.50"
+HWM.BA,Howmet Aerospace Inc.,"104,833.50"
+SYY.BA,Sysco Corporation,"12,102.00"
+GLW.BA,Corning Incorporated,"13,149.00"
+BIIB.BA,Biogen Inc.,"24,145.00"
+NUE.BA,Nucor Corporation,"13,434.50"
+DD.BA,"DuPont de Nemours, Inc.","21,750.00"
+SID.BA,Companhia Sider�rgica Nacional,"24,994.50"
+PHG.BA,Koninklijke Philips N.V.,"6,823.00"
+BBD.BA,Banco Bradesco S.A.,"3,038.00"
+LVS.BA,Las Vegas Sands Corp.,"29,885.00"
+AEM.BA,Agnico Eagle Mines Limited,"14,772.50"
+GRMN.BA,Garmin Ltd.,"73,190.00"
+BIDU.BA,"Baidu, Inc.","10,661.00"
+BRFS.BA,BRF S.A.,"16,555.50"
+EBAY.BA,eBay Inc.,"36,412.50"
+ERJ.BA,Embraer S.A.,"34,814.50"
+CAH.BA,"Cardinal Health, Inc.","44,361.50"
+SBS.BA,Companhia de Saneamento B�sico do Estado de S�o Paulo - SABESP,"36,210.50"
+IFF.BA,International Flavors & Fragrances Inc.,"10,691.00"
+BNG.BA,Bunge Global SA,"28,883.50"
+NMR.BA,"Nomura Holdings, Inc.","7,772.00"
+ERIC.BA,Telefonaktiebolaget LM Ericsson (publ),"4,160.00"
+FSLR.BA,"First Solar, Inc.","17,005.50"
+KB.BA,KB Financial Group Inc.,"37,607.50"
+GOLD.BA,Barrick Gold Corporation,"11,281.00"
+EBR.BA,Centrais El�tricas Brasileiras S.A. - Eletrobr�s,"34,936.00"
+VRSN.BA,"VeriSign, Inc.","40,105.00"
+VIV.BA,Telef�nica Brasil S.A.,"11,123.50"
+GFI.BA,Gold Fields Limited,"20,246.50"
+SUZ.BA,Suzano S.A.,"13,874.50"
+AVY.BA,Avery Dennison Corporation,"16,526.00"
+BSBR.BA,Banco Santander (Brasil) S.A.,"6,728.00"
+FMX.BA,"Fomento Econ�mico Mexicano, S.A.B. de C.V.","23,798.00"
+IP.BA,International Paper Company,"14,545.00"
+CELU.BA,Celulosa Argentina S.A.,"1,497.00"
+AEG.BA,Aegon Ltd.,"8,262.00"
+KGC.BA,Kinross Gold Corporation,"11,225.00"
+SNA.BA,Snap-on Incorporated,"58,717.50"
+KEP.BA,Korea Electric Power Corporation,"9,600.00"
+ANF.BA,Abercrombie & Fitch Co.,"238,769.00"
+AMD.BA,"Advanced Micro Devices, Inc.","21,988.00"
+YPFD.BA,YPF Sociedad An�nima,"27,238.55"
+X.BA,United States Steel Corporation,"17,053.00"
+ASR.BA,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.","20,390.50"
+HMY.BA,Harmony Gold Mining Company Limited,"12,396.00"
+PAAS.BA,Pan American Silver Corp.,"8,959.50"
+NG.BA,NovaGold Resources Inc.,"19,136.00"
+TXR.BA,Ternium S.A.,"12,728.00"
+PAC.BA,"Grupo Aeroportuario del Pac�fico, S.A.B. de C.V.","13,306.50"
+GGAL.BA,Grupo Financiero Galicia S.A.,"4,135.05"
+UGP.BA,Ultrapar Participa��es S.A.,"5,292.50"
+ARCO.BA,Arcos Dorados Holdings Inc.,"24,306.00"
+CAR.BA,"Avis Budget Group, Inc.","5,447.00"
+BMA.BA,Banco Macro S.A.,"7,641.35"
+TXAR.BA,Ternium Argentina S.A.,974.00
+HOG.BA,"Harley-Davidson, Inc.","14,940.50"
+HL.BA,Hecla Mining Company,"6,511.50"
+TGSU2.BA,Transportadora de Gas del Sur S.A.,"5,164.75"
+URBN.BA,"Urban Outfitters, Inc.","27,476.50"
+PBI.BA,Pitney Bowes Inc.,"6,964.50"
+PAMP.BA,Pampa Energ�a S.A.,"2,408.75"
+CDE.BA,"Coeur Mining, Inc.","7,487.50"
+TECO2.BA,Telecom Argentina S.A.,"1,960.65"
+ALUA.BA,Aluar Aluminio Argentino S.A.I.C.,987.00
+BBAR.BA,Banco BBVA Argentina S.A.,"4,188.80"
+YELP.BA,Yelp Inc.,"24,832.50"
+TRIP.BA,"Tripadvisor, Inc.","12,070.00"
+TV.BA,"Grupo Televisa, S.A.B.","1,253.50"
+XROX.BA,Xerox Holdings Corporation,"15,760.50"
+CEPU.BA,Central Puerto S.A.,"1,240.00"
+BPAT.BA,Banco Patagonia S.A.,"2,594.50"
+WBO.BA,Weibo Corporation,"1,730.00"
+FERR.BA,Ferrum S.A. de Cer�mica y Metalurgia,145.00
+ADGO.BA,Adecoagro S.A.,"13,119.50"
+BYMA.BA,Bolsas y Mercados Argentinos S.A.,343.50
+DESP.BA,"Despegar.com, Corp.","17,940.00"
+CAPX.BA,Capex S.A.,"7,165.50"
+MOLA.BA,Molinos Agro S.A.,"22,541.00"
+LOMA.BA,Loma Negra Compa��a Industrial Argentina Sociedad An�nima,"1,853.00"
+EDN.BA,Empresa Distribuidora y Comercializadora Norte Sociedad An�nima,"1,101.25"
+MOLA5.BA,Molinos Agro S.A.,"18,089.50"
+MOLI.BA,Molinos Rio de la Plata S.A.,"4,414.00"
+CVH.BA,Cablevisi�n Holding S.A.,"4,869.50"
+IRSA.BA,IRSA Inversiones y Representaciones Sociedad An�nima,"1,220.75"
+CTIO.BA,Consultatio S.A.,"2,117.50"
+SUPV.BA,Grupo Supervielle S.A.,"1,850.35"
+TRAN.BA,Compa��a de Transporte de Energ�a El�ctrica en Alta Tensi�n Transener S.A.,"1,782.50"
+CRES.BA,"Cresud Sociedad An�nima, Comercial, Inmobiliaria, Financiera y Agropecuaria","1,118.60"
+SAMI.BA,S.A. San Miguel A.G.I.C.I. y F.,879.00
+PATA.BA,Sociedad An�nima Importadora y Exportadora de la Patagonia,"1,253.50"
+HARG.BA,Holcim (Argentina) S.A.,"1,682.00"
+METR.BA,MetroGAS S.A.,"1,075.50"
+LEDE.BA,Ledesma Sociedad An�nima Agr�cola Industrial,"1,249.50"
+GBAN.BA,"Naturgy BAN, S.A.","1,228.00"
+INVJ.BA,Inversora Juramento S.A.,516.50
+MIRG.BA,"Mirgor Sociedad An�nima, Comercial, Industrial, Financiera, Inmobiliaria y Agropecuaria","19,824.00"
+BHIP.BA,Banco Hipotecario S.A.,431.00
+VALO.BA,Banco de Valores S.A.,342.50
+CECO2.BA,Central Costanera S.A.,396.50
+TGNO4.BA,Transportadora de Gas del Norte S.A.,"3,032.50"
+CGPA2.BA,Camuzzi Gas Pampeana S.A.,"1,993.00"
+AUSO.BA,Autopistas Del Sol SA,"2,988.50"
+MTR.BA,Matba Rofex S.A.,"1,994.50"
+GCLA.BA,Grupo Clar�n S.A.,"2,077.50"
+BOLT.BA,Boldt S.A.,71.80
+OEST.BA,Grupo Concesionario del Oeste S.A.,"1,086.00"
+RIGO.BA,Rigolleau S.A.,980.00
+DGCU2.BA,Distribuidora de Gas Cuyana S.A.,"1,230.50"
+MORI.BA,Morixe Hermanos S.A.C.I.,368.50
+SEMI.BA,Molinos Juan Semino S.A.,167.50
+HAVA.BA,Havanna Holding S.A.,"6,273.00"
+RICH.BA,Laboratorios Richmond S.A.C.I.F.,980.00
+GAMI.BA,B-Gaming S.A.,228.75
+AGRO.BA,Agrometal S.A.I.,60.70
+CADO.BA,Carlos Casado S.A.,583.00
+GRIM.BA,Grimoldi S.A.,"1,150.00"
+INTR.BA,Compa��a Introductora de Buenos Aires S.A.,386.00
+FIPL.BA,Fiplasto S.A.,323.00
+GCDI.BA,GCDI S.A.,31.75
+CARC.BA,Carboclor S.A.,34.45
+DYCA.BA,DYCASA Sociedad An�nima,439.50
+SHPW.BA,SHAPEWAYS HOLDINGS INC CEDEAR E,"1,945.00"
+BNGD.BA,Bunge Global SA,20.00
+LONG.BA,Longvie S.A.,36.90
+DOME.BA,DOMEC Compa��a de Artefactos Dom�sticos S.A.I.C.y F.,76.00
+GARO.BA,Garovaglio y Zorraqu�n S.A.,149.50
+ROSE.BA,Instituto Rosenbusch S.A.,122.00
+POLL.BA,"Polledo Sociedad Anonima, Industrial, Constructora y Financiera",435.00
+COME.BA,Sociedad Comercial del Plata S.A.,190.80
+XPD.BA,XP INC CED EACH 2 REPR 1,4.5000
+EG01Q.BA,,"90,900.00"
+MRVLD.BA,MARVELL TECHNOLOGY INC CEDEAR E,5.20
+TDE5X.BA,,"111,000.00"
+YMCTO.BA,,"91,000.00"
+CS34D.BA,,38.80
+TDJ4X.BA,,"115,609.80"
+MRCKO.BA,,"87,800.00"
+CS38D.BA,,104.80
+TLCHO.BA,,"97,900.00"
+SE5X.BA,,126.50
+TZX25.BA,,158.70
+CECOB.BA,CENTRAL COSTANERA SA,407.00
+GGBD.BA,GERDAU SA CEDEAR EACH REPR 4 AD,13.10
+GMD.BA,GENERAL MOTORS CO CED EACH 20 R,7.90
+YMCVD.BA,,96.94
+S28F5.BA,,110.35
+YMCID.BA,,102.50
+MGCHD.BA,,101.50
+YMCOO.BA,,"99,900.00"
+PNIZF.BA,FCIC REAL ESTATE PUERTO NIZUC,2.0700
+RCCJO.BA,,"141,200.00"
+PNXCO.BA,,"147,790.00"
+TZX6X.BA,,182.02
+IRCFD.BA,,85.55
+GD29.BA,,"77,770.00"
+CRE3W.BA,CRESUD S.A.C.I.F.Y.A.,790.00
+MSSAD.BA,,106.10
+GN34O.BA,,"35,500.00"
+XLEB.BA,SELECT SECTOR SPDR TRUST CEDEAR,"60,581.00"
+LECBO.BA,,"137,990.00"
+TXM6X.BA,,109.34
+YMCID.BA,,102.50
+MSSAD.BA,,106.10
+GN34O.BA,,"35,500.00"
+CECOB.BA,CENTRAL COSTANERA SA,407.00
+GGBD.BA,GERDAU SA CEDEAR EACH REPR 4 AD,13.10
+LECEO.BA,,"136,900.00"
+TZXM6.BA,,109.50
+CS43O.BA,,106.90
+T2X5.BA,,509.60
+YMCQD.BA,,96.60
+S12L4.BA,,103.85
+DGCE.BA,DISTRIBUIDORA DE GAS DEL CENTRO,"1,211.00"
+COIN.BA,"Coinbase Global, Inc.","11,169.50"
+HDD.BA,"The Home Depot, Inc.",10.80
+ALUAD.BA,Aluar Aluminio Argentino S.A.I.C.,0.7500
+GPRK.BA,GeoPark Limited,"14,724.00"
+AZND.BA,AstraZeneca PLC,42.00
+SE.BA,Sea Limited,"3,007.00"
+UNH.BA,UnitedHealth Group Incorporated,"20,460.50"
+SQ.BA,"Block, Inc.","4,348.00"
+EA.BA,Electronic Arts Inc.,"13,481.00"
+JNJD.BA,Johnson & Johnson,9.97
+DESPD.BA,"Despegar.com, Corp.",13.95
+LAC.BA,Lithium Americas Corp.,"3,634.50"
+MRNA.BA,MODERNA INC CEDEAR EACH 19 REP,"8,482.00"
+HSYD.BA,The Hershey Company,8.90
+WFCD.BA,Wells Fargo & Company,11.70
+NKED.BA,"NIKE, Inc.",6.68
+UPSTD.BA,"Upstart Holdings, Inc.",4.5300
+MOS.BA,The Mosaic Company,"7,801.00"
+MGLU3.BA,MAGAZINE LUIZA SA CEDEAR EACH 1,"2,902.00"
+PLTR.BA,Palantir Technologies Inc.,"11,458.00"
+JNJD.BA,Johnson & Johnson,9.97
+QQQ.BA,"Invesco QQQ Trust, Series 1","32,539.00"
+INTCD.BA,Intel Corporation,6.25
+EWZ.BA,"iShares, Inc. - iShares MSCI Brazil ETF","18,495.00"
+MELID.BA,"MercadoLibre, Inc.",13.85
+EEMD.BA,ISHARES TRUST CEDEAR EACH 5 REP,8.76
+BPD.BA,BP p.l.c.,7.40
+IBMD.BA,International Business Machines Corporation,11.85
+MUX.BA,MCEWEN MINING INC CEDEAR EACH 2,"6,209.00"
+MSTR.BA,MicroStrategy Incorporated,"93,794.00"
+DIAD.BA,SPDR DOW JONES INDUSTRIAL AVG E,20.30
+ACN.BA,ACCENTURE PLC CEDEAR EACH 75 RE,"5,465.50"
+BABAD.BA,Alibaba Group Holding Limited,8.06
+UNHD.BA,UnitedHealth Group Incorporated,15.50
+GGALD.BA,Grupo Financiero Galicia S.A.,3.0700
+ZMD.BA,"Zoom Video Communications, Inc.",1.3300
+ABNB.BA,"Airbnb, Inc.","13,696.50"
+PYPLD.BA,"PayPal Holdings, Inc.",7.45
+MELID.BA,"MercadoLibre, Inc.",13.85
+MRNA.BA,MODERNA INC CEDEAR EACH 19 REP,"8,482.00"
+UNHD.BA,UnitedHealth Group Incorporated,15.50
+PYPLD.BA,"PayPal Holdings, Inc.",7.45
+EEMD.BA,ISHARES TRUST CEDEAR EACH 5 REP,8.76
+DED.BA,Deere & Company,10.10
+WBAD.BA,"Walgreens Boots Alliance, Inc.",4.3500
+UPST.BA,"Upstart Holdings, Inc.","6,331.50"
+GILDD.BA,"Gilead Sciences, Inc.",18.00
+BB.BA,BlackBerry Limited,"1,109.00"
+DIAD.BA,SPDR DOW JONES INDUSTRIAL AVG E,20.30
+ACN.BA,ACCENTURE PLC CEDEAR EACH 75 RE,"5,465.50"
+BABAD.BA,Alibaba Group Holding Limited,8.06
+CP34D.BA,,101.40
+RACED.BA,FERRARI N V CEDEAR EACH 83 REP,5.65
+PAMPC.BA,,1.7500
+CP30X.BA,,"90,650.00"
+T2X5Z.BA,,0.3950
+VSCLD.BA,,101.00
+PNVCO.BA,,"127,000.00"
+CS34O.BA,,"57,480.00"
+TLCFO.BA,,"84,330.00"
+S01L4.BA,,105.29
+CP31O.BA,,"83,500.00"
+PNDCD.BA,,106.35
+LND.BA,LANDORE RESOURCES LIMITED,"6,235.50"
+VSCFO.BA,,"147,190.00"
+TLCLO.BA,,"99,390.00"
+TDJ24.BA,,"115,950.00"
+CS36O.BA,,"91,500.00"
+AAPLB.BA,APPLE INC CEDEAR(REPR 1/10 SHR),"14,442.00"
+YPFDB.BA,YPF SOCIEDAD ANONIMA,"27,720.00"
+TGSUB.BA,TRANSPORTADORA DE GAS DEL SUR S,"5,133.00"
+GGALB.BA,GRUPO FINANCIERO GALICIA SA,"4,176.00"
+IRS2W.BA,IRSA INVERSIONES Y REPRESENTACI,"1,097.50"
+BA-C.BA,Bank of America Corp,"13,450.00"
+CAC8O.BA,,"134,000.00"
+BB37D.BA,,"51,900.00"
+CS44O.BA,,"136,100.00"
+S30G4.BA,,105.70
+BPJ25.BA,,"127,880.00"
+MRCRO.BA,,"74,000.00"
+MRCYD.BA,,99.90
+MRCPO.BA,,"77,980.00"
+SG4X.BA,,105.70
+RUC5D.BA,,103.00
+LMS7O.BA,,"135,600.00"
+BRKBD.BA,BERKSHIRE HATHAWAY INC CEDEAR E,18.85
+TZV25.BA,,"107,000.00"
+IRCFO.BA,Nasdaq US Automobiles and Parts,"114,300.00"
+MRCFO.BA,,"139,990.00"
+LRCX.BA,Lam Research Corporation,"25,796.00"
+COSTD.BA,Costco Wholesale Corporation,18.50
+TZXD6.BA,,128.00
+S14O4.BA,,114.25
+BPOC7.BA,,"101,800.00"
+SM5X.BA,,105.09
+RUC7D.BA,,100.00
+BNA26.BA,,"143,000.00"
+DNC3O.BA,,"140,500.00"
+GD41.BA,,"55,710.00"
+AL29.BA,,"74,220.00"
+CAC8D.BA,,100.50
+CP30O.BA,,"92,000.00"
+TXD6X.BA,,129.00
+CVXD.BA,Chevron Corporation,9.97
+ERJD.BA,Embraer S.A.,28.35
+SPCE.BA,VIRGIN GALACTIC HLDGS INC CEDEA,"22,790.00"
+ABBVD.BA,AbbVie Inc.,18.05
+RIOT.BA,RIOT PLATFORMS INC RIOT PLATFOR,"4,325.00"
+RACE.BA,FERRARI N V CEDEAR EACH 83 REP,"6,626.00"
+RIOD.BA,Rio Tinto Group,8.33
+UALD.BA,"United Airlines Holdings, Inc.",9.70
+SLBD.BA,Schlumberger Limited,17.00
+SHELD.BA,Shell plc,37.00
+SLBD.BA,Schlumberger Limited,17.00
+SHELD.BA,Shell plc,37.00
+ABBVD.BA,AbbVie Inc.,18.05
+RIOT.BA,RIOT PLATFORMS INC RIOT PLATFOR,"4,325.00"
+RACE.BA,FERRARI N V CEDEAR EACH 83 REP,"6,626.00"
+MMMD.BA,3M Company,10.45
+RENT3.BA,Localiza Rent a Car S.A.,"5,085.50"
+PGD.BA,The Procter & Gamble Company,11.20
+UALD.BA,"United Airlines Holdings, Inc.",9.70
+AMZND.BA,"Amazon.com, Inc.",1.3700
+QCOMD.BA,QUALCOMM Incorporated,19.30
+CVS.BA,CVS HEALTH CORPORATION CEDEAR E,"5,293.00"
+FD.BA,Ford Motor Company,12.40
+ADGOD.BA,Adecoagro S.A.,9.78
+SNOW.BA,Snowflake Inc.,"6,108.50"
+META.BA,"Meta Platforms, Inc.","28,629.50"
+RIOD.BA,Rio Tinto Group,8.33
+EWZD.BA,ISHARES INC CEDEAR 2 REPR 1 ETF,13.85
+ERJD.BA,Embraer S.A.,28.35
+CVXD.BA,Chevron Corporation,9.97
+AMDD.BA,"Advanced Micro Devices, Inc.",16.55
+DAL.BA,DELTA AIR LINES INC CEDEAR EACH,"8,030.00"
+RBLX.BA,Roblox Corporation,"25,140.00"
+LLYD.BA,Eli Lilly and Company,16.25
+PFED.BA,Pfizer Inc.,7.23
+TSLAD.BA,"Tesla, Inc.",13.30
+CRMD.BA,"Salesforce, Inc.",15.25
+NOKA.BA,Nokia Oyj,"5,141.00"
+VZD.BA,Verizon Communications Inc.,10.40
+S01L4.BA,,105.29
+PNVCO.BA,,"127,000.00"
+VSCLD.BA,,101.00
+TLCFO.BA,,"84,330.00"
+RACED.BA,FERRARI N V CEDEAR EACH 83 REP,5.65
+PAMPC.BA,,1.7500
+CP34D.BA,,101.40
+CP30X.BA,,"90,650.00"
+T2X5Z.BA,,0.3950
+CS34O.BA,,"57,480.00"
+RUC7D.BA,,100.00
+BNA26.BA,,"143,000.00"
+DNC3O.BA,,"140,500.00"
+GD41.BA,,"55,710.00"
+AL29.BA,,"74,220.00"
+CAC8D.BA,,100.50
+T5X4.BA,,411.00
+MSSAO.BA,,"142,780.00"
+TDG24.BA,,"105,250.00"
+MGCHO.BA,,"135,940.00"
+IRCIO.BA,,"131,230.00"
+MRCPO.BA,,"77,980.00"
+SG4X.BA,,105.70
+RUC5D.BA,,103.00
+TZV25.BA,,"107,000.00"
+BPD7C.BA,,71.85
+TZXM5.BA,,111.00
+TECOB.BA,TELECOM ARGENTINA SA,"1,823.80"
+GGALB.BA,GRUPO FINANCIERO GALICIA SA,"4,176.00"
+LECED.BA,,103.00
+TLCLO.BA,,"99,390.00"
+VSCFO.BA,,"147,190.00"
+LND.BA,LANDORE RESOURCES LIMITED,"6,235.50"
+LMS7O.BA,,"135,600.00"
+BRKBD.BA,BERKSHIRE HATHAWAY INC CEDEAR E,18.85
+IRCJO.BA,,"138,000.00"
+TDG4X.BA,,"105,200.00"
+TTC7D.BA,,100.55
+S31E5.BA,,126.00
+T5X4X.BA,,409.00
+S29N4.BA,,109.20
+RUC5O.BA,,"136,500.00"
+RUC7O.BA,,"135,500.00"
+SNS9O.BA,,"94,000.00"
+NIOD.BA,NIO INC CEDEAR EACH 4 REP 1 ADR,1.0700
+T4X4X.BA,,510.25
+MRCPO.BA,,"77,980.00"
+SG4X.BA,,105.70
+RUC5O.BA,,"136,500.00"
+RUC7O.BA,,"135,500.00"
+LECED.BA,,103.00
+NIOD.BA,NIO INC CEDEAR EACH 4 REP 1 ADR,1.0700
+T4X4X.BA,,510.25
+T5X4X.BA,,409.00
+S29N4.BA,,109.20
+LND.BA,LANDORE RESOURCES LIMITED,"6,235.50"
+CAC8O.BA,,"134,000.00"
+BA-C.BA,Bank of America Corp,"13,450.00"
+TECOB.BA,TELECOM ARGENTINA SA,"1,823.80"
+SDA.BA,SunCar Technology Group Inc.,"5,900.00"
+ABBV.BA,AbbVie Inc.,"23,141.00"
+SQD.BA,"Block, Inc.",3.1000
+TCOM.BA,Trip.com Group Limited,"31,661.50"
+AVGO.BA,Broadcom Inc.,"55,663.50"
+SPOT.BA,Spotify Technology S.A.,"15,103.50"
+TEN.BA,Tenaris S.A.,"41,379.50"
+ELP.BA,Companhia Paranaense de Energia - COPEL,"27,620.00"
+HAPV3.BA,HAPVIDA PARTICIPACOES INV SA CE,928.00
+BIDUD.BA,"Baidu, Inc.",8.00
+PKS.BA,POSCO Holdings Inc.,"29,705.00"
+KOFM.BA,"Coca-Cola FEMSA, S.A.B. de C.V.","58,125.00"
+FD.BA,Ford Motor Company,12.40
+ABBVD.BA,AbbVie Inc.,18.05
+AMZND.BA,"Amazon.com, Inc.",1.3700
+PGD.BA,The Procter & Gamble Company,11.20
+CVS.BA,CVS HEALTH CORPORATION CEDEAR E,"5,293.00"
+PFED.BA,Pfizer Inc.,7.23
+MMMD.BA,3M Company,10.45
+SPCE.BA,VIRGIN GALACTIC HLDGS INC CEDEA,"22,790.00"
+PSX.BA,Phillips 66,"31,935.50"
+RIOD.BA,Rio Tinto Group,8.33
+EWZD.BA,ISHARES INC CEDEAR 2 REPR 1 ETF,13.85
+QCOMD.BA,QUALCOMM Incorporated,19.30
+RACE.BA,FERRARI N V CEDEAR EACH 83 REP,"6,626.00"
+RIOT.BA,RIOT PLATFORMS INC RIOT PLATFOR,"4,325.00"
+UALD.BA,"United Airlines Holdings, Inc.",9.70
+DAL.BA,DELTA AIR LINES INC CEDEAR EACH,"8,030.00"
+RBLX.BA,Roblox Corporation,"25,140.00"
+AMDD.BA,"Advanced Micro Devices, Inc.",16.55
+JMIAD.BA,Jumia Technologies AG,7.35
+FCXD.BA,Freeport-McMoRan Inc.,16.70
+CATD.BA,Caterpillar Inc.,17.15
+ADBED.BA,Adobe Inc.,12.80
+TD.BA,AT&T Inc.,6.38
+ABTD.BA,Abbott Laboratories,26.90
+BBDD.BA,Banco Bradesco S.A.,2.2900
+OLC3X.BA,,"85,576.11"
+AOCA.BA,Aluminum Corp of China Ltd,"35,400.00"
+EAC1O.BA,,"69,990.00"
+SPGID.BA,S&P GLOBAL INC CED EACH 20 REPR,9.95
+MRCID.BA,,101.50
+DOWD.BA,DOW INC CED EACH 2 REPR 1,8.85
+KO--B.BA,COCA-COLA CO CEDEARS EACH 5 REP,"17,150.00"
+ALUAB.BA,,978.00
+T2X5X.BA,,512.50
+BAK.BA,BRASKEM S A CEDEAR EACH 2 REPR,"4,364.50"
+CEPUB.BA,CENTRAL PUERTO SA,"1,258.00"
+LOC2D.BA,,100.50
+PNDCO.BA,,"142,740.00"
+MGCJO.BA,,"136,200.00"
+COIND.BA,COINBASE GLOBAL INC CED EACH 2,8.30
+XLEDB.BA,SELECT SECTOR SPDR TRUST CEDEAR,46.20
+RCCMO.BA,,"135,000.00"
+RUC6O.BA,Nasdaq EM MEA Telecommunication,"134,400.00"
+IRCGD.BA,,105.00
+SO4X.BA,,115.00
+MGC9D.BA,,107.00
+IRCID.BA,,97.90
+IRCHO.BA,,"142,000.00"
+PLTRD.BA,PALANTIR TECH INC CEDEAR EACH 3,8.15
+SN4X.BA,,109.60
+DNC2O.BA,,"137,400.00"
+GD38.BA,,"65,190.00"
+TZX27.BA,,170.00
+BPOB7.BA,,"111,000.00"
+MGCJO.BA,,"136,200.00"
+TZXD5.BA,,136.75
+BPY6C.BA,,76.00
+AAPDB.BA,APPLE INC CEDEAR(REPR 1/10 SHR),10.90
+TZX26.BA,,181.75
+NM33Q.BA,,82.10
+VSCPO.BA,,"137,000.00"
+IRCGD.BA,,105.00
+XLEDB.BA,SELECT SECTOR SPDR TRUST CEDEAR,46.20
+CEPUB.BA,CENTRAL PUERTO SA,"1,258.00"
+SN4X.BA,,109.60
+T2X5X.BA,,512.50
+NPCAO.BA,,"136,000.00"
+VSCLO.BA,,"133,000.00"
+CS44D.BA,,100.65
+PNXCD.BA,,107.50
+S31M5.BA,,105.10
+IRCLO.BA,,"136,880.00"
+IRCJD.BA,,102.90
+MRCMO.BA,,"87,300.00"
+QQQD.BA,INVESCO QQQ TRUST CEDEAR EACH 2,24.30
+XLED.BA,SELECT SECTOR SPDR TRUST CEDEAR,46.10
+YMCVO.BA,,"130,860.00"
+TTC7O.BA,,"135,470.00"
+TZX27.BA,,170.00
+GM.BA,General Motors Company,"10,479.50"
+NIO.BA,NIO Inc.,"1,418.00"
+HSY.BA,The Hershey Company,"11,840.00"
+AMGND.BA,Amgen Inc.,11.50
+ARCOD.BA,Arcos Dorados Holdings Inc.,18.00
+MA.BA,Mastercard Incorporated,"18,077.50"
+MUFGD.BA,"Mitsubishi UFJ Financial Group, Inc.",9.90
+YY.BA,JOYY Inc.,"8,150.00"
+HUTD.BA,Hut 8 Corp.,80.30
+VIST.BA,"Vista Energy, S.A.B. de C.V.","20,609.50"
+DOCUD.BA,"DocuSign, Inc.",2.3500
+TXARD.BA,Ternium Argentina S.A.,0.7400
+PBR.BA,Petr�leo Brasileiro S.A. - Petrobras,"19,551.50"
+DOW.BA,Dow Inc.,"12,004.50"
+PAMPD.BA,Pampa Energ�a S.A.,1.8100
+ABEVD.BA,Ambev S.A.,6.30
+HALD.BA,Halliburton Company,16.40
+PRIO3.BA,Prio S.A.,"5,249.00"
+UAL.BA,"United Airlines Holdings, Inc.","13,109.00"
+SPY.BA,SPDR S&P 500 ETF Trust,"36,896.50"
+XLFD.BA,SELECT SECTOR SPDR TRUST CEDEAR,20.60
+VIST.BA,"Vista Energy, S.A.B. de C.V.","20,609.50"
+GED.BA,General Electric Company,20.95
+TXARD.BA,Ternium Argentina S.A.,0.7400
+ABEVD.BA,Ambev S.A.,6.30
+HSY.BA,The Hershey Company,"11,840.00"
+ARCOD.BA,Arcos Dorados Holdings Inc.,18.00
+STNE.BA,StoneCo Ltd.,"5,329.50"
+UAL.BA,"United Airlines Holdings, Inc.","13,109.00"
+SATL.BA,Satellogic Inc.,"1,437.00"
+XLFD.BA,SELECT SECTOR SPDR TRUST CEDEAR,20.60
+SBUXD.BA,Starbucks Corporation,6.68
+PRIO3.BA,Prio S.A.,"5,249.00"
+HALD.BA,Halliburton Company,16.40
+VALED.BA,Vale S.A.,5.65
+XD.BA,United States Steel Corporation,12.05
+ABNBD.BA,"Airbnb, Inc.",10.55
+PANW.BA,"Palo Alto Networks, Inc.","9,206.00"
+BBAS3.BA,Banco do Brasil S.A.,"3,233.50"
+HMYD.BA,Harmony Gold Mining Company Limited,9.29
+MOD.BA,"Altria Group, Inc.",11.65
+MSFTD.BA,Microsoft Corporation,15.35
+TXND.BA,Texas Instruments Incorporated,41.20
+BAD.BA,The Boeing Company,7.96
+MGCGO.BA,,111.50
+CP34O.BA,,"129,600.00"
+TDJ4Z.BA,,88.48
+SED.BA,SEA LIMITED CEDEAR EACH 32 REP,2.4800
+CRESB.BA,CRESUD S.A.C.I.F.Y.A.,"1,098.00"
+CP32O.BA,,"132,990.00"
+TZX8X.BA,,152.50
+STLAD.BA,STELLANTIS N.V CEDEAR EACH 5 RE,4.0000
+MRCUD.BA,,98.50
+BMA-D.BA,BANCO MACRO S.A.,6.00
+YPFDC.BA,,20.00
+MRFCD.BA,,102.45
+VSCOO.BA,,"137,030.00"
+BPJ5C.BA,,94.25
+VSCPD.BA,,106.00
+BMYD.BA,BRISTOL-MYERS SQUIBB CO CEDEAR,14.40
+SF5X.BA,,111.50
+MRCYO.BA,,"134,990.00"
+MGCJD.BA,,99.35
+GN34D.BA,,27.49
+BPOD7.BA,,"97,560.00"
+TZXD7.BA,,115.50
+BPOA7.BA,,"124,490.00"
+TX28.BA,,"1,488.00"
+BA37D.BA,,"57,890.00"
+PAASD.BA,Pan American Silver Corp.,6.62
+LOC3O.BA,,"138,740.00"
+PAASD.BA,Pan American Silver Corp.,6.62
+LOC3O.BA,,"138,740.00"
+MGCJD.BA,,99.35
+MRFCD.BA,,102.45
+BPOA7.BA,,"124,490.00"
+TX28.BA,,"1,488.00"
+CRCJD.BA,,103.00
+GD46.BA,,"61,890.00"
+IRCHD.BA,,105.50
+BMYD.BA,BRISTOL-MYERS SQUIBB CO CEDEAR,14.40
+TWLO.BA,Twilio Inc.,"2,121.00"
+TEFO.BA,"Telef�nica, S.A.",703.00
+SATLD.BA,Satellogic Inc.,1.1400
+PSXD.BA,Phillips 66,25.75
+DOCU.BA,"DocuSign, Inc.","3,297.00"
+WBA.BA,"Walgreens Boots Alliance, Inc.","5,480.00"
+UNP.BA,Union Pacific Corporation,"15,334.50"
+SPOTD.BA,Spotify Technology S.A.,12.15
+CAAP.BA,Corporaci�n Am�rica Airports S.A.,"89,824.00"
+BYMAD.BA,Bolsas y Mercados Argentinos S.A.,0.2600
+TMD.BA,Toyota Motor Corporation,14.25
+AAPLD.BA,Apple Inc.,10.70
+NFLXD.BA,"Netflix, Inc.",14.50
+VD.BA,Visa Inc.,15.35
+NU.BA,Nu Holdings Ltd.,"8,716.00"
+ETSY.BA,"Etsy, Inc.","4,948.50"
+UNP.BA,Union Pacific Corporation,"15,334.50"
+PSXD.BA,Phillips 66,25.75
+DOCU.BA,"DocuSign, Inc.","3,297.00"
+CAAP.BA,Corporaci�n Am�rica Airports S.A.,"89,824.00"
+BIOX.BA,Bioceres Crop Solutions Corp.,"15,211.50"
+WBA.BA,"Walgreens Boots Alliance, Inc.","5,480.00"
+ZM.BA,"Zoom Video Communications, Inc.","1,693.00"
+BYMAD.BA,Bolsas y Mercados Argentinos S.A.,0.2600
+SONYD.BA,Sony Group Corporation,10.10
+AVGOD.BA,Broadcom Inc.,41.95
+NFLXD.BA,"Netflix, Inc.",14.50
+VD.BA,Visa Inc.,15.35
+IWMD.BA,ISHARES TRUST CEDEAR EACH 10 RE,20.75
+HUT.BA,Hut 8 Corp.,"101,337.50"
+AAPLD.BA,Apple Inc.,10.70
+TMD.BA,Toyota Motor Corporation,14.25
+PANWD.BA,"Palo Alto Networks, Inc.",6.60
+OXYD.BA,Occidental Petroleum Corporation,12.80
+NU.BA,Nu Holdings Ltd.,"8,716.00"
+ARKKD.BA,ARK ETF TRUST CEDEAR EACH 10 RE,4.4700
+BITFD.BA,Bitfarms Ltd.,12.95
+OXY.BA,Occidental Petroleum Corporation,"17,049.00"
+GSD.BA,"The Goldman Sachs Group, Inc.",36.00
+CSCOD.BA,"Cisco Systems, Inc.",9.88
+DISND.BA,The Walt Disney Company,8.38
+SHOPD.BA,Shopify Inc.,0.6030
+AALD.BA,American Airlines Group Inc.,5.59
+MU.BA,"Micron Technology, Inc.","35,660.50"
+MRVL.BA,"Marvell Technology, Inc.","6,741.50"
+XLE.BA,The Select Sector SPDR Trust - The Energy Select Sector SPDR Fund,"61,634.50"
+MAD.BA,Mastercard Incorporated,13.35
+XOMD.BA,Exxon Mobil Corporation,11.50
+MDLZ.BA,MONDELEZ INTL INC CEDEAR EACH 1,"5,921.50"
