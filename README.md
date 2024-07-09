@@ -2,7 +2,7 @@
 
 ##Yahoo Finance Scraper
 
-Este projeto consiste em um web scraper desenvolvido em Python usando Selenium e BeautifulSoup. O objetivo é coletar dados de nomes, símbolos e preços (intraday) de empresas listadas no site Yahoo Finance, com a capacidade de filtrar por região.
+Este projeto consiste em um web scraper desenvolvido em Python usando Selenium. O objetivo é coletar dados de nomes, símbolos e preços (intraday) de empresas listadas no site Yahoo Finance, com a capacidade de filtrar por região.
 
 ##Funcionalidades
 
